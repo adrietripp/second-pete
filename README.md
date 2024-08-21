@@ -1,2 +1,1 @@
-# second-pete
-second project
+# starter-pete-thinkful-portfolio
